@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmallTalk_Group8</string>
+    <string name="small_talk">Small Talk</string>
+    <string name="entertainment_btn">Conversation Starters for Movies and TV shows</string>
+    <string name="sports_btn">Conversation Starters for Sports</string>
+    <string name="title_sports">Sports</string>
+    <string name="query_prompt">Choose a Query</string>
+    <string name="showresult_btn">Show Result</string>
+    <string name="goBack_btn">Main Page</string>
+    <string name="showentertainment_btn">Show Result</string>
+    <string name="EgoBack_btn">Main Page</string>
+    <string name="title_entertainment" >Movies and TV Shows</string>
+    <string name="title_sports_search">Search for Sports</string>
+    <string name="sports_fname">Athlete First Name</string>
+    <string name="sports_lname">Athlete Last Name</string>
+    <string name="search_sports_btn">Search for Sports</string>
+    <string name="search_athlete_btn">Search by Name</string>
+    <string name="sports_team">Team</string>
+    <string name="search_team_btn">Search by Team</string>
+    <string name="search_state_btn">Search by City</string>
+    <string name="search_entertainment_btn">Search for Movies or TV shows</string>
+    <string name="title_enter_search">Search for Movies or TV shows</string>
+    <string name="crew_fname">First Name</string>
+    <string name="crew_lname">Last Name</string>
+    <string name="enter_title">Title</string>
+    <string name="search_title_btn">Search by Movie Title</string>
+    <string name="enter_episode" >Series</string>
+    <string name="search_episode_btn">Search by TV Series Title</string>
+    <string-array name="sports_query_array">
+            <item>Football Teams</item>
+            <item>Baseball Teams</item>
+            <item>Basketball Teams</item>
+            <item>Hockey Teams</item>
+    </string-array>
+    <string-array name="entertainment_query_array">
+        <item>High Rated Movies in 2018</item>
+        <item>High Rated TV shows in 2018</item>
+    </string-array>
+    <string name="sports_state">City</string>
+
+</resources>
